@@ -1703,7 +1703,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 
 .login-center{
   text-align: center;
-  margin-left: 400px;
+  padding-left: 450px;
   
 }
 .form-group {
